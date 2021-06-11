@@ -9,8 +9,8 @@ Run bash file for all three model architectures (vgg, alexnet, resnet):
 Using calculate_stats.py and print_results.py to show/compare results of the three models
 
 Outputs: 
-> vgg_pet-images.txt
-> alexnet_pet-images.txt
-> resnet_pet-images.txt
+> vgg_pet-images.txt /n
+> alexnet_pet-images.txt /n
+> resnet_pet-images.txt /n
 
 VGG performed best at dog, nondog, breed, & label match. 
