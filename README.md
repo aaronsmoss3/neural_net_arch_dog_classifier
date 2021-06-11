@@ -6,11 +6,11 @@ This was a fun intro project that focuses more on modular code then classifier c
 Run bash file for all three model architectures (vgg, alexnet, resnet):
 > run_mdoel_batch.sh
 
-Outputs: 
-vgg_pet-images.txt
-alexnet_pet-images.txt
-resnet_pet-images.txt
-
 Using calculate_stats.py and print_results.py to show/compare results of the three models
+
+Outputs: 
+> vgg_pet-images.txt
+> alexnet_pet-images.txt
+> resnet_pet-images.txt
 
 VGG performed best at dog, nondog, breed, & label match. 
